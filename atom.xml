@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-06-01T10:57:10.605Z</updated>
+  <updated>2024-06-01T11:01:03.090Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试图片</title>
+    <link href="http://example.com/2024/06/01/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87/"/>
+    <id>http://example.com/2024/06/01/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87/</id>
+    <published>2024-06-01T10:59:31.000Z</published>
+    <updated>2024-06-01T11:01:03.090Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/./%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87/ethanchen.png" alt="测试"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/./%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87/ethanchen.png&quot; alt=&quot;测试&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hexo + github 部署个人网站</title>
